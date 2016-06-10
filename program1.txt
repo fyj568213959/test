@@ -4,5 +4,5 @@ Main(){
 }
 
 method(){
-	fff
+	fff1234
 }
